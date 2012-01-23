@@ -2,6 +2,7 @@ HTTPCoffeePot
 =============
 
 ***Special Features***
+
 * 15 minute automatic shutoff
 * Controlled via HTTP Requests
 * Status, start, and stop requests
